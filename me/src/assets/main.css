@@ -1,0 +1,9 @@
+@import "./base.css";
+
+#app {
+  font-weight: normal;
+}
+
+.router-link-active {
+  color: #e84444!important;
+}
